@@ -5,7 +5,7 @@ using System;
 using System.Text;
 using FrooxEngine;
 
-namespace VirtualKeyboard1
+namespace VirtualKeyboard
 {
     [Category("Utility")]
     public class VirtualKeyboard : Component

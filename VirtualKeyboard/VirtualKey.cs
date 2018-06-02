@@ -4,7 +4,7 @@ using FrooxEngine.UI;
 using System;
 using System.Runtime.InteropServices;
 
-namespace VirtualKeyboard1
+namespace VirtualKeyboard
 {
     public class VirtualKey : Component, IButtonReceiver
     {

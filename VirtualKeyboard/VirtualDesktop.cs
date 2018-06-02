@@ -2,7 +2,7 @@
 using BaseX;
 using FrooxEngine;
 
-namespace VirtualKeyboard1
+namespace VirtualKeyboard
 {
     public class VirtualDesktop : Component, IButtonReceiver
     {
