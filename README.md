@@ -5,6 +5,7 @@ Virtual Keyboard with the feature of typing on the desktop.
 Sends virtual key presses to any focused windows application.
 Added a button to toggle between ingame and desktop typing.
 
+# Other Info
 This was made, so that in game while using OVRdrop,
 you can type from inside of NeosVR, into any programs like Discord, Chrome, Firefox, ...
 
